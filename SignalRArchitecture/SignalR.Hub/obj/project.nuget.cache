@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/z2ji2g3gXg=",
+  "success": true,
+  "projectFilePath": "C:\\PA1_SignalRArchitecture\\SignalRArchitecture\\SignalR.Hub\\SignalR.Hub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jairo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\jairo\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}

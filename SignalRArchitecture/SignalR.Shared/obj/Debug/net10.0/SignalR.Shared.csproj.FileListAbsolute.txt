@@ -1,0 +1,11 @@
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\bin\Debug\net10.0\SignalR.Shared.deps.json
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\bin\Debug\net10.0\SignalR.Shared.dll
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\bin\Debug\net10.0\SignalR.Shared.pdb
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\obj\Debug\net10.0\SignalR.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\obj\Debug\net10.0\SignalR.Shared.AssemblyInfoInputs.cache
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\obj\Debug\net10.0\SignalR.Shared.AssemblyInfo.cs
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\obj\Debug\net10.0\SignalR.Shared.csproj.CoreCompileInputs.cache
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\obj\Debug\net10.0\SignalR.Shared.dll
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\obj\Debug\net10.0\refint\SignalR.Shared.dll
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\obj\Debug\net10.0\SignalR.Shared.pdb
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\obj\Debug\net10.0\ref\SignalR.Shared.dll
