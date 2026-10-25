@@ -33,3 +33,4 @@ C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Hub\obj\Debug\net10.0\ref
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Hub\obj\Debug\net10.0\SignalR.Hub.pdb
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Hub\obj\Debug\net10.0\SignalR.Hub.genruntimeconfig.cache
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Hub\obj\Debug\net10.0\ref\SignalR.Hub.dll
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Hub\obj\Debug\net10.0\SignalR.Hub.sourcelink.json

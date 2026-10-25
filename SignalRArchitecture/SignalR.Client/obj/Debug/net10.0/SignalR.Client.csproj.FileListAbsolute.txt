@@ -27,7 +27,6 @@ C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\scopedcss\projectbundle\SignalR.Client.bundle.scp.css
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\compressed\1v8zdgsa5n-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\compressed\fxe8nhul8q-{0}-61n19gt1b8-61n19gt1b8.gz
-C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\compressed\lmh54lxofn-{0}-r16j3pcbzr-r16j3pcbzr.gz
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\compressed\cxqg9b70kj-{0}-m3i9f6419i-m3i9f6419i.gz
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\compressed\8fes69ynmy-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\compressed\mlwdn3z53b-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -102,3 +101,5 @@ C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\SignalR.Client.pdb
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\SignalR.Client.genruntimeconfig.cache
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\ref\SignalR.Client.dll
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\SignalR.Client.sourcelink.json
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\compressed\lmh54lxofn-{0}-8ix7qh251o-8ix7qh251o.gz

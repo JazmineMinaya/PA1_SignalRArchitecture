@@ -9,3 +9,4 @@ C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\obj\Debug\net10.0\
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\obj\Debug\net10.0\refint\SignalR.Shared.dll
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\obj\Debug\net10.0\SignalR.Shared.pdb
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\obj\Debug\net10.0\ref\SignalR.Shared.dll
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Shared\obj\Debug\net10.0\SignalR.Shared.sourcelink.json

@@ -12,8 +12,14 @@ const messagesList = document.getElementById("messagesList");
 
 connection.on("ReceiveMessage", (message) => {
     const item = document.createElement("li");
-    item.textContent =
-        `${message.user}: ${message.message}`;
+    const fecha = new Date(message.sentAt);
+
+    const hora = fecha.toLocaleTimeString("es-DO", {
+        hour: "2-digit",
+        minute: "2-digit"
+    });
+
+    item.textContent = `[${hora}] ${message.user}: ${message.message}`;
     messagesList.appendChild(item);
 });
 
