@@ -23,5 +23,6 @@ app.UseRouting();
 app.UseCors("ClientPolicy");
 
 app.MapHub<ChatHub>("/chatHub");
+app.MapHub<OrderHub>("/orderHub");
 
 app.Run();

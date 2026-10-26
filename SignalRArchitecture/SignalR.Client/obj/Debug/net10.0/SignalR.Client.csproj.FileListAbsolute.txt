@@ -103,3 +103,4 @@ C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\ref\SignalR.Client.dll
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\SignalR.Client.sourcelink.json
 C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\compressed\lmh54lxofn-{0}-8ix7qh251o-8ix7qh251o.gz
+C:\PA1_SignalRArchitecture\SignalRArchitecture\SignalR.Client\obj\Debug\net10.0\compressed\jv3dncuisp-{0}-s3guj2edjl-s3guj2edjl.gz
