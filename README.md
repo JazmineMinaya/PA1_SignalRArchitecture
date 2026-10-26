@@ -1,6 +1,6 @@
 # SignalR Architecture
 
-Proyecto desarrollado con .NET 10 y SignalR.
+Aplicación en tiempo real con SignalR y .NET 10 desarrollada en la materia de Programación Aplicada I.
 
 ## Proyectos
 
